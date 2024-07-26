@@ -1,0 +1,13 @@
+.{
+    .name = "brookjeynes.dev",
+    .version = "0.0.0",
+
+    .dependencies = .{
+        .zine = .{
+            .url = "git+https://github.com/kristoff-it/zine#f3f355c4956a80e5ab2e3900545ef34a342fbe17",
+            .hash = "1220e9f603ff14b5ec69442f0287588ad20072d836b05b3a7e4100dd30e95fef1cd3",
+        },
+    },
+
+    .paths = .{"."},
+}

@@ -1,0 +1,9 @@
+<extend template="base.shtml">
+<title id="title" var="$page.title"></title>
+<div id="content">
+  <h1>Posts</h1>
+  <h2 var="$page.title"></h2>
+  <h3>by <span var="$page.author"></span></h3>
+  <h4>Posted on: <span var="$page.date.format('January 02, 2006')"></span></h4>
+  <div var="$page.content"></div>
+</div>

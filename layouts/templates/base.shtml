@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head id="head">
+    <meta charset="UTF-8">
+    <meta name="description" content="Brook. Just a tech.">
+    <meta property="og:title" content="$page.title">
+    <meta property="og:type" content="website">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title id="title">
+      <super>
+      - brookjeynes.dev
+    </title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+    <link rel="stylesheet" type="text/css" href="/highlight.css">
+    <link rel="stylesheet" type="text/css" href="/min770px.css">
+    <link href="https://iosevka-webfonts.github.io/iosevka-term/iosevka-term.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Marcellus&display=swap"
+        rel="stylesheet">
+  </head>
+
+  <body>
+    <header id="banner">
+      <h2>
+        <u><a href="/">brookjeynes.dev</a></u>
+      </h2>
+      <nav>
+        <ul>
+          <li><a href="/posts/">posts</a></li>
+          <li><a href="/library/">library</a></li>
+          <li><a href="/contact/">contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <div id="content">
+      <super>
+    </div>
+
+    <footer id="footer">brookjeynes.dev</footer>
+  </body>
+</html>
