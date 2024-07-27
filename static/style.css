@@ -6,6 +6,10 @@ html {
     font-size: 62.5%;
 }
 
+.selected {
+    color: red;
+}
+
 body {
     font-size: 1.6rem;
     font-family: 'Gentium Plus', serif;

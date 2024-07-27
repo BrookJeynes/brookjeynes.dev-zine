@@ -28,16 +28,16 @@
       </h2>
       <nav>
         <ul>
-          <li><a href="/posts/">posts</a></li>
+          <li><a class="$page.permalink().endsWith('/posts/').then('selected', '')" href="/posts/">posts</a></li>
           <li><a href="/library/">library</a></li>
           <li><a href="/contact/">contact</a></li>
         </ul>
       </nav>
     </header>
 
-    <div id="content">
+    <main id="content">
       <super>
-    </div>
+    </main>
 
     <footer id="footer">brookjeynes.dev</footer>
   </body>

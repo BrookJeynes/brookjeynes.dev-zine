@@ -4,8 +4,8 @@
 
     .dependencies = .{
         .zine = .{
-            .url = "git+https://github.com/kristoff-it/zine#f3f355c4956a80e5ab2e3900545ef34a342fbe17",
-            .hash = "1220e9f603ff14b5ec69442f0287588ad20072d836b05b3a7e4100dd30e95fef1cd3",
+            .url = "git+https://github.com/kristoff-it/zine#3381c4f1d587431ff6c004d50ae4a92ed5e64ef6",
+            .hash = "1220c485c78a3696c3174bfaaf3900b765e804c411597a0a79b82f65f315c0094df7",
         },
     },
 
