@@ -24,13 +24,13 @@
   <body>
     <header id="banner">
       <h2>
-        <u><a href="/">brookjeynes.dev</a></u>
+        <a href="/">brookjeynes.dev</a>
       </h2>
       <nav>
         <ul>
-          <li><a class="$page.permalink().endsWith('/posts/').then('selected', '')" href="/posts/">posts</a></li>
-          <li><a href="/library/">library</a></li>
-          <li><a href="/contact/">contact</a></li>
+          <li><a class="$page.permalink().contains('/posts/').then('selected', '')" href="/posts/">posts</a></li>
+          <li><a class="$page.permalink().contains('/library/').then('selected', '')" href="/library/">library</a></li>
+          <li><a class="$page.permalink().contains('/contact/').then('selected', '')" href="/contact/">contact</a></li>
         </ul>
       </nav>
     </header>
