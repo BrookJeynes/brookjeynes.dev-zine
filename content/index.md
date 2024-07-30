@@ -12,11 +12,9 @@ I’m Brook, an Aussie software developer exploring low-level programming and co
 I also enjoy hiking, bouldering, and playing music in my spare time.
 
 ### other links
-<ul>
-    <li><a href="https://brookjeynes.dev/contact">My contact information.</a></li>
-    <li><a href="https://brookjeynes.dev/posts">My blogs and Youtube videos.</a></li>
-    <li><a href="https://brookjeynes.dev/library">A list of books I’ve read or am reading.</a></li>
-</ul>
+- [My contact information.](https://brookjeynes.dev/contact)
+- [My blogs and Youtube videos.](https://brookjeynes.dev/posts)
+- [A list of books I’ve read or am reading.](https://brookjeynes.dev/library)
 
 ### notable projects
 <ul id="posts">

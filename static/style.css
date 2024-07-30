@@ -30,6 +30,10 @@ header#banner a:hover {
     text-decoration: underline;
 }
 
+li p {
+    margin: 0 !important;
+}
+
 .selected {
     text-decoration: underline !important;
 }
